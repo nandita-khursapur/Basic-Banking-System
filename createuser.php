@@ -45,7 +45,7 @@
     <div class="container">
       <div class="screen-body">
         <div class="screen-body-item left">
-          <img src="images/background1.jpg" style="border: none;" width ="50%" height = "25%" >
+          <img src="user.png" style="border: none;" width ="10%" height = "7%" >
         </div>
         <div class="screen-body-item">
           <form class="app-form" method="post">
