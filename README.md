@@ -15,3 +15,13 @@ Bootstrap
 **-> Back-End:**
 PHP
 MYSQL
+
+**TO RUN project:**
+
+-Save the project in c/xampp/htdocs/(downloaded folder)
+
+-Open xampp server - Start Apache and Mysql open php my admin
+
+-Create Database named 'banksys' and import the sql file(provided in database folder)
+
+-Open chrome and type localhost/Basic-Banking-System-main
